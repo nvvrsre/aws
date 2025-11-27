@@ -390,7 +390,7 @@ PAGE = """
 
     function runCpuTest() {
       const statusEl = document.getElementById('cpu-status');
-      const total = 75;
+      const total = 40;
       cpuRequestsTotal = total;
       cpuRequestsDone = 0;
 
